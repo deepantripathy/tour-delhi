@@ -1,0 +1,27 @@
+.wrap{
+	width: 600px;
+	margin: auto;
+	float: right;
+	
+}
+
+p{
+	width: 700px;
+	margin: auto;
+	color: rgb(100,200,50);
+	font-weight: bold;
+	font-family: cursive;
+	font-style: oblique;
+	font-size: 25px;
+}
+
+a{
+	color: red;
+}
+
+.image{
+	
+	padding-top: 50px;
+	paddi
+}
+
